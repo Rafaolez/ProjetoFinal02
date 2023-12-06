@@ -1,0 +1,52 @@
+html {
+    background-color: #9A00F5;
+    color: white;
+    
+}
+.DiviMairo {
+    width: 30rem;
+    height: 59%;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1rem;
+    margin-top: 5rem;
+}
+.PrimeiroEmail {
+    margin-left: 5rem;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+.LabelSenha, .LabelEmail {
+    margin-top: 3rem;
+    width: 14rem;
+    height: 2rem;
+    
+}
+.BTN {
+    width: 14rem;
+    height: 3rem;
+    border-radius: 0.5rem;
+    margin-left: 8rem;
+    background-color: #d3d3d3;
+}
+.InputEmail, .InputSenha {
+    margin-top: 3rem;
+    border-radius: 0.5rem;
+    background-color: #d3d3d3;  
+    margin-left:3rem;
+}
+.Titulo {
+    margin-left: 42rem;
+    font-size: 3rem;
+}
+.SubTitulo {
+    margin-left: 31rem;
+    font-size: 1.7rem;
+}
+.Mensagem {
+    font-size: 2rem;
+    margin-top: 1rem;
+    color: red;
+    margin-left: 3rem;
+}

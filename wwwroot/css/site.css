@@ -1,18 +1,33 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
+    /*background-color: #9A00F5;*/
+   /* color: white;*/
+}
+
+body {
+    /*background-color: #9A00F5;*/
+    /*color: white;*/
+}
+.Heder {
+    background-color: black !important;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 html {
   position: relative;
   min-height: 100%;
+
 }
 
 body {
   margin-bottom: 60px;
+}
+a{
+    color: black;
+    text-decoration:none;
 }
