@@ -47,7 +47,7 @@ namespace ProjetoFinal.Controllers
         // GET: Cliente/Create
         public IActionResult Create()
         {
-            ViewData["CidadeId"] = new SelectList(_context.Cidades, "Id", "CidadeNome ");
+            ViewData["CidadeId"] = new SelectList(_context.Cidades, "Id", "CidadeNome");
             return View();
         }
 
